@@ -7,7 +7,7 @@ I'm an **Analytics Engineer** building modern data products that turn raw inform
 ## 🎸 What I'm Building
 
 - **Soundcheck** – A full-stack analytics platform to explore live music ratings, fan experiences, artist momentum, and venue trends
-  Tools: Python • dbt • BigQuery • Prefect • GitHub Actions • Looker Studio
+- Tools: Python • dbt • BigQuery • Prefect • GitHub Actions • Looker Studio
 
 ---
 
