@@ -21,7 +21,7 @@ I'm an **Analytics Engineer** building modern data products that turn raw inform
 
 ## 🌍 About Me
 
-- Remote-friendly | Based on the West Coast, USA  
+- Remote-friendly | Based in the USA  
 - Love building systems from scratch — especially when they combine data + culture (like live music)
 - On a mission to design elegant data tools with real impact
 
