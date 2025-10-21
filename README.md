@@ -32,8 +32,3 @@ I'm an **Analytics Engineer** building modern data products that turn raw inform
 - [LinkedIn](https://www.linkedin.com/in/brendan-bullivant/)
 - Email: bpbullivant3@gmail.com  
 - Open to freelance and full-time opportunities in analytics engineering, data pipeline design, and dashboarding
-
----
-
-### ⚡ Fun Fact
-I built much of this work while road-tripping across the U.S. — from Yosemite to the Tetons — working remotely out of my 4Runner with a rooftop tent and a vision
