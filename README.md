@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Brendan!
 
-I'm an **Analytics Professional** building modern data products that turn raw information into clarity. My current projects include designing scalable data warehouses, transforming data with dbt, orchestrating pipelines, and building interactive dashboards.
+I'm an **Analytics Professional** building modern data products that turn raw information into clarity. My current projects include designing analyitcs agents, scalable data warehouses, transforming data with dbt, orchestrating pipelines, and building interactive dashboards.
 
 ---
 
@@ -13,8 +13,8 @@ I'm an **Analytics Professional** building modern data products that turn raw in
 
 ## 🛠️ Tech I Work With
 
-- SQL, Python, dbt, BigQuery, Git, Looker Studio  
-- Focused on **data modeling, reproducibility, and useful dashboards**
+- SQL, Python, LangChain, RAG, dbt, BigQuery, Git, Looker Studio  
+- Focused on **ML, data modeling, reproducibility, and useful dashboards**
 
 ---
 
